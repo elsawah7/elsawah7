@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/elsawah7/elsawah7/raw/main/6Y3A2040.jpg" width="150" alt="Profile Picture">
-</p>
+
 
 <h1 align="center">Hi, I'm Abdelaziz Elsawah 👋</h1>
 <p align="center">Backend Developer | PHP & Laravel | MySQL</p>
