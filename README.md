@@ -27,7 +27,8 @@
 ---
 
 ## 🚀 Projects
-- **Learning Management System (LMS)** - Laravel, MySQL, REST API, JWT Auth
+- **Learning Management System (LMS)**  
+  Full-featured LMS with role-based dashboards (Admin, Instructor, User), Stripe payment integration, Google Authentication, and implemented using Service Layer & Repository Design Patterns.
 - **E-commerce Platform** - Laravel, Stripe Payment Integration
 - **Blog / CMS** - Laravel, RESTful APIs, Role-based Access Control
 
