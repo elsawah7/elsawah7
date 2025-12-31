@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Hi, I'm Abdelaziz Elsawah 👋</h1>
-<p align="center">Backend Developer | PHP & Laravel | MySQL</p>
+<p align="center">Backend Developer | PHP & Laravel | MySQL | Building Scalable & Maintainable Web Applications</p>
 
 ---
 
@@ -10,20 +8,30 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="REST API" src="https://img.shields.io/badge/REST-API-00CFFF?style=for-the-badge"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="PHPUnit" src="https://img.shields.io/badge/Testing-PHPUnit-009900?style=for-the-badge"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
+## 🌱 Currently Improving
+- Advanced Laravel (Events, Queues, Middleware, Policies)
+- RESTful API Development & API Security
+- Docker, Deployment & CI/CD Pipelines
+- Unit & Feature Testing with PHPUnit
 
+---
 
-## 🌱 Currently Learning
-- Advanced Laravel (Events, Queues, Middleware)  
-- RESTful API Development  
-- Docker & Deployment  
+## 🚀 Projects
+- **Learning Management System (LMS)** - Laravel, MySQL, REST API, JWT Auth
+- **E-commerce Platform** - Laravel, Stripe Payment Integration, Docker
+- **Blog / CMS** - Laravel, RESTful APIs, Role-based Access Control
 
 ---
 
@@ -40,3 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=elsawah7&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsawah7&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
